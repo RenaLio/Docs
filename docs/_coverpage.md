@@ -10,5 +10,10 @@
 - simple life
 - normal life
 
+
 [GitHub](https://github.com/renalio)
 [Get Started](/?id=headline)
+
+<!-- 背景图片 -->
+
+![](_media/bg.jpg)
