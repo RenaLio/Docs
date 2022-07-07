@@ -12,7 +12,7 @@
 
 
 [GitHub](https://github.com/renalio)
-[Get Started](/?id=headline)
+[Get Started](/README)
 
 <!-- 背景图片 -->
 
