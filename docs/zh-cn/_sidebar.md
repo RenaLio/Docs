@@ -6,3 +6,7 @@
 * Bot
 
     * [subinfo](/zh-cn/bot/subinfo)
+
+* Tool box
+
+    * [subinfo](/zh-cn/toolbox/toolbox)
