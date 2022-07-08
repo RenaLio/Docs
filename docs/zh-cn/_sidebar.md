@@ -9,4 +9,4 @@
 
 * Tool box
 
-    * [subinfo](/zh-cn/toolbox/toolbox)
+    * [MisakaLinuxToolbox](/zh-cn/toolbox/toolbox)
