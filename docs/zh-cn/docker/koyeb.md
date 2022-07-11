@@ -12,21 +12,21 @@ docker.io/aapanel/aapanel
 
 ![image-20220711220600814](https://cdn.jsdelivr.net/gh/RenaLio/images/imgs/202207112206049.png)
 
-Default installation entry:`aapanel`
-Default username:`aapanel`
-Default password:`aapanel123`
-Default root password:`aapanel123`
-
-#### Port usage analysis
-
-Control Panel : 7800
-Phpmyadmin : 888
-
-#### Dir usage analysis
-
-Website data : /www/wwwroot
-Mysql data : /www/server/data
-Vhost file : /www/server/panel/vhost
+> Default installation entry:`aapanel`
+> Default username:`aapanel`
+> Default password:`aapanel123`
+> Default root password:`aapanel123`
+>
+> #### Port usage analysis
+>
+> Control Panel : 7800
+> Phpmyadmin : 888
+>
+> #### Dir usage analysis
+>
+> Website data : /www/wwwroot
+> Mysql data : /www/server/data
+> Vhost file : /www/server/panel/vhost
 
 ## 安装哪吒探针
 
